@@ -1,11 +1,11 @@
 ## Hello, I'm Sai Krishna. I'm a Web Developer.
 
-**HTML**
-**CSS**
-**JavaScript**
-**Php**
-**React**
-**Laravel**
+**HTML**<br/>
+**CSS**<br/>
+**JavaScript**<br/>
+**Php**<br/>
+**React**<br/>
+**Laravel**<br/>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
