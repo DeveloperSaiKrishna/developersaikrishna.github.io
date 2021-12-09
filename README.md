@@ -1,6 +1,13 @@
 ## Hello, I'm Sai Krishna
 
-You can use the [editor on GitHub](https://github.com/DeveloperSaiKrishna/developersaikrishna.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I'm a Web Developer.
+
+### HTML
+### CSS
+### JavaScript
+### Php
+### React
+### Laravel
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
